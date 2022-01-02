@@ -71,8 +71,8 @@ function score_checker() {
   // display the score
   scoreElement.textContent = score;
   // checking the scores value and displaying a message based on it
-  if (score == 5) {
-    resultsElement2.textContent = "You got 5 points! Congrats!";
+  if (score > 5) {
+    resultsElement2.textContent = "You got over 5 points! Congrats!";
   } else if (score < 0) {
     resultsElement2.textContent = "Oh no you have Negative Points!";
   } else {
