@@ -4,4 +4,4 @@ Small Javascript based game: simple rock paper scissors
 Created as part of Odin Project Lessons
 
 ## Demo
-https://hibou-dev.github.io/Rock-Paper-Scissors/
+https://philip-soft.github.io/Rock-Paper-Scissors/
